@@ -13,9 +13,11 @@ Puzzle 2 - Build a Docker Image
 
 docker pull binoyjt/whoamibinoy:29april
 docker run -it --rm -p 32776:80 --name sample binoyjt/whoamibinoy:29april
+
 Browse http://localhost:32776 and the below is the output that would be seen
 
 {
+
    "displayName":"Binoy",
    
    "emailAddress":"binoy@binoy.net"
