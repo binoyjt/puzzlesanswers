@@ -17,6 +17,7 @@ Browse http://localhost:32776 and the below is the output that would be seen
 
 {
    "displayName":"Binoy",
+   
    "emailAddress":"binoy@binoy.net"
 
 }
